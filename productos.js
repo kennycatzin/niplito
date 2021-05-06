@@ -1,0 +1,1 @@
+document.getElementById("nombre").setAttribute("value", "holaaaaa");
